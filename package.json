@@ -1,5 +1,5 @@
 {
-  "name": "minesweeper",
+  "name": "@jessicasachs/minesweeper",
   "version": "0.0.1",
   "description": "🚩 90s nostalgia 💣",
   "main": "lib/index.js",
