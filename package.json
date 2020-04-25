@@ -1,0 +1,7 @@
+{
+  "name": "minesweeper",
+  "version": "0.0.1",
+  "description": "90s nostalgia :bomb:",
+  "main": "index.js",
+  "license": "MIT"
+}
